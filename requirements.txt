@@ -1,0 +1,4 @@
+Django>=4.2,<5.0
+pymongo>=4.0
+pycryptodome>=3.18
+requests>=2.28
